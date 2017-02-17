@@ -1,5 +1,3 @@
-# matthias-reis.github.io
-
-## Presentation
+## Presentations
 
 * [Functional React](/presentations/functional-react)
